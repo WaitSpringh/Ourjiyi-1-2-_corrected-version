@@ -10,7 +10,7 @@ It is a website dedicated by [NemoCook](https://github.com/SuSheng13T) in memory
 
 ## About the code
 
-Developed using html5, consisting of several html files zu'c
+Developed using html5, consisting of several html files 
 
 ## language version
 Supports Simplified [Chinese ](https://github.com/SuSheng13T/Ourjiyi-1-2-_corrected-version/blob/main/ZH.md) and English
