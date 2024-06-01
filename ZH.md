@@ -1,5 +1,5 @@
 # 我们的回忆（ourjiyi）修正版本
-**注意：[ourjiyi](https://github.com/SuSheng13T/ourjiyi)i和ourjiyi2[ourjiyi2](https://github.com/SuSheng13T/ourjiyi2)已于2024年6月1日归档**
+**注意：[ourjiyi](https://github.com/SuSheng13T/ourjiyi)i和[ourjiyi2](https://github.com/SuSheng13T/ourjiyi2)已于2024年6月1日归档**
 
 **[English](https://github.com/SuSheng13T/Ourjiyi-1-2-_corrected-version/blob/main/README.md)**
 
