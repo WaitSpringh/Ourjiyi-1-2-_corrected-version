@@ -1,4 +1,6 @@
 # Ourjiyi-1-2-_corrected-version
+ **Note: [ourjiyi](https://github.com/SuSheng13T/ourjiyi)i and [ourjiyi2](https://github.com/SuSheng13T/ourjiyi2) have been archived on June 1, 2024**
+
  **[Chinese](https://github.com/SuSheng13T/Ourjiyi-1-2-_corrected-version/blob/main/ZH.md)**
 ## About this version
 
